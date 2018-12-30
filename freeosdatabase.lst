@@ -1,6 +1,8 @@
 #!/usr/bin/freeosretriever
 # Powered by BSD, like Unix
 
+ftp://distro.ibiblio.org/pub/linux/distributions/damnsmall/current/dsl-4.4.10.iso
+
 http://rwthaachen.dl.osdn.jp/clonezilla/69912/clonezilla-live-2.5.6-22-i686.zip
 
 # https://download.freebsd.org/ftp/snapshots/VM-IMAGES/13.0-CURRENT/i386/Latest/FreeBSD-13.0-CURRENT-i386.raw.xz
